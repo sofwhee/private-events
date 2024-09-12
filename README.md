@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# private-events
+An Odin Project project to practice many-to-many relationships.
+>>>>>>> 08717ad2ddfd015950999b6e1a4a12daa55e936e
